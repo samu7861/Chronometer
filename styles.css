@@ -37,7 +37,7 @@ main{
     left: calc(50% - 10px);
     top: calc(50% - 10px);
     animation: rotacion 60s linear infinite;
-    animation-play-state: none;
+    animation-play-state: paused;
 }
 
 @keyframes rotacion {
